@@ -11,6 +11,9 @@ jobs:
   e2e-tests:
     runs-on: ubuntu-latest
     steps:
+      - name: Print github owner and repo
+        run: |
+          echo "Github owner and repo: ${{ github.repository }}"
       - name: Checkout code
         uses: actions/checkout@v4
         with:
