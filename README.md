@@ -2,6 +2,6 @@
 
 ### Course link (with a big discount 🙂): https://www.lauromueller.com/courses/mastering-github-actions
 
-This repository contains an example Cypress setup for usage on my course Mastering GitHub Actions: From Beginner to Expert. Check the course's main repository on the link: https://github.com/udemy-lauromueller/github-actions-course
+This repository contains an example Cypress setup for usage on my course Mastering GitHub Actions: From Beginner to Expert. Check the course's main repository on the link: https://github.com/lm-academy/github-actions-course
 
 See you there!
