@@ -1,6 +1,5 @@
 name: 02 - Workflow Events
 on:
-  push:
   pull_request:
     branches:
     - main
